@@ -53,4 +53,4 @@
 | 49  |              |
 | 50  |              |
 
-I get inspiration from [Brad Traversy](https://github.com/bradtraversy)
+I get inspiration from [Brad Traversy](https://github.com/bradtraversy).
