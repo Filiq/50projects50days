@@ -2,11 +2,11 @@
 
 |  #  | Projects                                                                                                              |Live Demo
 | :-: | ----------------------------------------------------------------------------------------------------------------------|-------------------
-| 01  | [Expanding Cards](https://github.com/Filiq/50projects50days/tree/main/1.%20Expanding%20Cards)                         | [Live Demo](https://www.filiq.net/projects/50projects50days/Expanding%20Cards/)
-| 02  | [Progress Steps](https://github.com/Filiq/50projects50days/tree/main/2.%20Progress%20Steps)                           | [Live Demo](https://www.filiq.net/projects/50projects50days/Expanding%20Cards/)
-| 03  | [Rotating Navigation Animation](https://github.com/Filiq/50projects50days/tree/main/3.%20Rotating%20Navigation)       | [Live Demo](https://www.filiq.net/projects/50projects50days/Rotating%20Navigation/)
-| 04  | [Hidden Search Widget](https://github.com/Filiq/50projects50days/tree/main/4.%20Hidden%20Search%20Widget)             | [Live Demo](https://www.filiq.net/projects/50projects50days/Expanding%20Cards/)
-| 05  | [Blurry Loading](https://github.com/Filiq/50projects50days/tree/main/5.%20Blurry%20Loading)                           | [Live Demo](https://www.filiq.net/projects/50projects50days/Expanding%20Cards/)
+| 01  | [Expanding Cards](https://github.com/Filiq/50projects50days/tree/main/1.%20Expanding%20Cards)                         | [Live Demo](https://www.filiq.net/projects/50projects50days/Expanding-Cards/)
+| 02  | [Progress Steps](https://github.com/Filiq/50projects50days/tree/main/2.%20Progress%20Steps)                           | [Live Demo](https://www.filiq.net/projects/50projects50days/Progress-Steps/)
+| 03  | [Rotating Navigation Animation](https://github.com/Filiq/50projects50days/tree/main/3.%20Rotating%20Navigation)       | [Live Demo](https://www.filiq.net/projects/50projects50days/Rotating-Navigation/)
+| 04  | [Hidden Search Widget](https://github.com/Filiq/50projects50days/tree/main/4.%20Hidden%20Search%20Widget)             | [Live Demo](https://www.filiq.net/projects/50projects50days/Hidden-Search-Widget/)
+| 05  | [Blurry Loading](https://github.com/Filiq/50projects50days/tree/main/5.%20Blurry%20Loading)                           | [Live Demo](https://www.filiq.net/projects/50projects50days/Blurry-Loading/)
 | 06  |              |
 | 07  |              |
 | 08  |              |
