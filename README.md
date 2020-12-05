@@ -6,7 +6,7 @@
 | 02  | [Progress Steps](https://github.com/Filiq/50projects50days/tree/main/2.%20Progress%20Steps)                           |
 | 03  | [Rotating Navigation Animation](https://github.com/Filiq/50projects50days/tree/main/3.%20Rotating%20Navigation)       |
 | 04  | [Hidden Search Widget](https://github.com/Filiq/50projects50days/tree/main/4.%20Hidden%20Search%20Widget)             |
-| 05  |              |
+| 05  | [Blurry Loading](https://github.com/Filiq/50projects50days/tree/main/5.%20Blurry%20Loading)                           |
 | 06  |              |
 | 07  |              |
 | 08  |              |
