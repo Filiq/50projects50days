@@ -7,7 +7,7 @@
 | 03  | [Rotating Navigation Animation](https://github.com/Filiq/50projects50days/tree/main/3.%20Rotating%20Navigation)       | [Live Demo](https://www.filiq.net/projects/50projects50days/Rotating-Navigation/)
 | 04  | [Hidden Search Widget](https://github.com/Filiq/50projects50days/tree/main/4.%20Hidden%20Search%20Widget)             | [Live Demo](https://www.filiq.net/projects/50projects50days/Hidden-Search-Widget/)
 | 05  | [Blurry Loading](https://github.com/Filiq/50projects50days/tree/main/5.%20Blurry%20Loading)                           | [Live Demo](https://www.filiq.net/projects/50projects50days/Blurry-Loading/)
-| 06  |              |
+| 06  | [Blurry Loading](https://github.com/Filiq/50projects50days/tree/main/6.%20Scrolling%20Animation)                      | [Live Demo](https://www.filiq.net/projects/50projects50days/Scrolling-Animation/)             
 | 07  |              |
 | 08  |              |
 | 09  |              |
