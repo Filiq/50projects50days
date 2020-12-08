@@ -9,7 +9,7 @@
 | 05  | [Blurry Loading](https://github.com/Filiq/50projects50days/tree/main/5.%20Blurry%20Loading)                           | [Live Demo](https://www.filiq.net/projects/50projects50days/Blurry-Loading/)
 | 06  | [Scrolling Animation](https://github.com/Filiq/50projects50days/tree/main/6.%20Scrolling%20Animation)                 | [Live Demo](https://www.filiq.net/projects/50projects50days/Scrolling-Animation/)             
 | 07  | [Split Landing Page](https://github.com/Filiq/50projects50days/tree/main/7.%20Split%20Landing%20Page)                 | [Live Demo](https://www.filiq.net/projects/50projects50days/Split-Landing-Page/)
-| 08  |              |
+| 08  | [Form Wave Animation](https://github.com/Filiq/50projects50days/tree/main/8.%20Form%20Wave%20Animation)               | [Live Demo](https://www.filiq.net/projects/50projects50days/Form-Wave-Animation/)
 | 09  |              |
 | 10  |              |
 | 11  |              |
