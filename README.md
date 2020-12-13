@@ -14,7 +14,7 @@
 | 10  | [Dad Jokes](https://github.com/Filiq/50projects50days/tree/main/10.%20Dad%20Jokes)                                    | [Live Demo](https://www.filiq.net/projects/50projects50days/Dad-Jokes/)
 | 11  | [Event KeyCodes](https://github.com/Filiq/50projects50days/tree/main/11.%20Event%20KeyCodes)                          | [Live Demo](https://www.filiq.net/projects/50projects50days/Event-KeyCodes/)
 | 12  | [FAQ Collapse](https://github.com/Filiq/50projects50days/tree/main/12.%20FAQ%20Collapse)                              | [Live Demo](https://www.filiq.net/projects/50projects50days/FAQ-Collapse/)
-| 13  |              |
+| 13  | [Random Choice Picker](https://github.com/Filiq/50projects50days/tree/main/13.%20Random%20Choice%20Picker)            | [Live Demo](https://www.filiq.net/projects/50projects50days/Random-Choice-Picker/)
 | 14  |              |
 | 15  |              |
 | 16  |              |
