@@ -17,7 +17,7 @@
 | 13  | [Random Choice Picker](https://github.com/Filiq/50projects50days/tree/main/13.%20Random%20Choice%20Picker)            | [Live Demo](https://www.filiq.net/projects/50projects50days/Random-Choice-Picker/)
 | 14  | [Animated Navigation](https://github.com/Filiq/50projects50days/tree/main/14.%20Animated%20Navigation)                | [Live Demo](https://www.filiq.net/projects/50projects50days/Animated-Navigation/) 
 | 15  | [Incrementing Counter](https://github.com/Filiq/50projects50days/tree/main/15.%20Incrementing%20Counter)              | [Live Demo](https://www.filiq.net/projects/50projects50days/Incrementing-Counter/)
-| 16  |              |
+| 16  | [Drink Water](https://github.com/Filiq/50projects50days/tree/main/16.%20Drink%20Water)                                | [Live Demo](https://www.filiq.net/projects/50projects50days/Drink-Water/)
 | 17  |              |
 | 18  |              |
 | 19  |              |
