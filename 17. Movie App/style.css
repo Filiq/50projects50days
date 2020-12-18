@@ -121,6 +121,23 @@ main {
   transform: translateY(0);
 }
 
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  background-color: transparent;
+  border: 0;
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 4rem;
+  color: #fff;
+  cursor: pointer;
+}
+
 @media (max-width: 800px) {
   header {
     flex-direction: column;
