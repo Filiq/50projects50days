@@ -19,7 +19,7 @@
 | 15  | [Incrementing Counter](https://github.com/Filiq/50projects50days/tree/main/15.%20Incrementing%20Counter)              | [Live Demo](https://www.filiq.net/projects/50projects50days/Incrementing-Counter/)
 | 16  | [Drink Water](https://github.com/Filiq/50projects50days/tree/main/16.%20Drink%20Water)                                | [Live Demo](https://www.filiq.net/projects/50projects50days/Drink-Water/)
 | 17  | [Movie App](https://github.com/Filiq/50projects50days/tree/main/17.%20Movie%20App)                                    | [Live Demo](https://www.filiq.net/projects/50projects50days/Movie-App/)
-| 18  |              |
+| 18  | [Background Slider](https://github.com/Filiq/50projects50days/tree/main/18.%20Background%20Slider)                    | [Live Demo](https://www.filiq.net/projects/50projects50days/Background-Slider/)
 | 19  |              |
 | 20  |              |
 | 21  |              |
