@@ -25,7 +25,7 @@
 | 21  | [Drag N Drop](https://github.com/Filiq/50projects50days/tree/main/21.%20Drag%20N%20Drop)                              | [Live Demo](https://www.filiq.net/projects/50projects50days/Drag-N-Drop/)
 | 22  | [Drawing App](https://github.com/Filiq/50projects50days/tree/main/22.%20Drawing%20App)                                | [Live Demo](https://www.filiq.net/projects/50projects50days/Drawing-App/)
 | 23  | [Kinetic Loader](https://github.com/Filiq/50projects50days/tree/main/23.%20Kinetic%20Loader)                          | [Live Demo](https://www.filiq.net/projects/50projects50days/Kinetic-Loader/)
-| 24  |              |
+| 24  | [Content Placeholder](https://github.com/Filiq/50projects50days/tree/main/24.%20Content%20Placeholder)                | [Live Demo](https://www.filiq.net/projects/50projects50days/Content-Placeholder/)
 | 25  |              |
 | 26  |              |
 | 27  |              |
