@@ -61,6 +61,7 @@ img {
   overflow: hidden;
   height: 45px;
   width: 45px;
+  pointer-events: none;
 }
 
 .author-info {
