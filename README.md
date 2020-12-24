@@ -28,7 +28,7 @@
 | 24  | [Content Placeholder](https://github.com/Filiq/50projects50days/tree/main/24.%20Content%20Placeholder)                | [Live Demo](https://www.filiq.net/projects/50projects50days/Content-Placeholder/)
 | 25  | [Sticky Navbar](https://github.com/Filiq/50projects50days/tree/main/25.%20Sticky%20Navbar)                            | [Live Demo](https://www.filiq.net/projects/50projects50days/Sticky-Navbar/)
 | 26  | [Double Vertical Slider](https://github.com/Filiq/50projects50days/tree/main/26.%20Double%20Vertical%20Slider)        | [Live Demo](https://www.filiq.net/projects/50projects50days/Double-Vertical-Slider/)
-| 27  |              |
+| 27  | [Toast Notification](https://github.com/Filiq/50projects50days/tree/main/27.%20Toast%20Notification)                  | [Live Demo](https://www.filiq.net/projects/50projects50days/Toast-Notification/)
 | 28  |              |
 | 29  |              |
 | 30  |              |
