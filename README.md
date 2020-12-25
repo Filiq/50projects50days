@@ -30,7 +30,7 @@
 | 26  | [Double Vertical Slider](https://github.com/Filiq/50projects50days/tree/main/26.%20Double%20Vertical%20Slider)        | [Live Demo](https://www.filiq.net/projects/50projects50days/Double-Vertical-Slider/)
 | 27  | [Toast Notification](https://github.com/Filiq/50projects50days/tree/main/27.%20Toast%20Notification)                  | [Live Demo](https://www.filiq.net/projects/50projects50days/Toast-Notification/)
 | 28  | [Github Profiles](https://github.com/Filiq/50projects50days/tree/main/28.%20Github%20Profiles)                        | [Live Demo](https://www.filiq.net/projects/50projects50days/Github-Profiles/)
-| 29  |              |
+| 29  | [Double Heart Click](https://github.com/Filiq/50projects50days/tree/main/29.%20Double%20Heart%20Click)                | [Live Demo](https://www.filiq.net/projects/50projects50days/Double-Heart-Click/)
 | 30  |              |
 | 31  |              |
 | 32  |              |
