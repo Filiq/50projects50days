@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #3b3b98;
+  color: #fff;
+  font-family: "Mulish", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  padding: 10px;
+}
+
+h2 {
+  margin: 10px 0 20px;
+  text-align: center;
+}
+
+.container {
+  background-color: #23235b;
+  box-shadow: 0 2px 10px rgba(255, 255, 255, 0.15);
+  padding: 20px;
+  width: 350px;
+  max-width: 100%;
+}
+
+.result-container {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+  font-size: 18px;
+  letter-spacing: 1px;
+  padding: 12px 10px;
+  height: 50px;
+  width: 100%;
+}
+
+.result-container #result {
+  word-wrap: break-word;
+  max-width: calc(100% - 40px);
+}
+
+.result-container .btn {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  width: 40px;
+  height: 40px;
+}
+
+.btn {
+  border: 0;
+  background-color: #3b3b98;
+  color: #fff;
+  font-size: 1rem;
+  font-family: inherit;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.btn-lage {
+  display: block;
+  width: 100%;
+}
+
+.btn:focus {
+  outline: 0;
+}
+
+.setting {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0;
+}
+
+#length {
+  width: 50px;
+}
+
+.notification {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 275px;
+  height: 35px;
+  font-size: 1rem;
+  top: 50%;
+  left: 15%;
+  animation: moveRight 0.5s ease-in-out forwards;
+  transform: translateY(-50%);
+  background-color: #fff;
+  color: #23235b;
+  z-index: -1;
+}
+
+.notification.remove {
+  left: 105%;
+  animation: remove 0.75s ease-in-out forwards;
+}
+
+@keyframes moveRight {
+  to {
+    left: 105%;
+  }
+}
+
+@keyframes remove {
+  to {
+    opacity: 0;
+  }
+}
+
+@media (max-width: 1000px) {
+  .notification {
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation-name: none;
+    z-index: 3;
+  }
+  .notification.remove {
+    left: 50%;
+  }
+}
