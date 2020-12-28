@@ -33,7 +33,7 @@
 | 29  | [Double Heart Click](https://github.com/Filiq/50projects50days/tree/main/29.%20Double%20Heart%20Click)                | [Live Demo](https://www.filiq.net/projects/50projects50days/Double-Heart-Click/)
 | 30  | [Auto Text Effect](https://github.com/Filiq/50projects50days/tree/main/30.%20Auto%20Text%20Effect)                    | [Live Demo](https://www.filiq.net/projects/50projects50days/Auto-Text-Effect/)
 | 31  | [Password Generator](https://github.com/Filiq/50projects50days/tree/main/31.%20Password%20Generator)                  | [Live Demo](https://www.filiq.net/projects/50projects50days/Password-Generator/)
-| 32  |              |
+| 32  | [Good, Cheap, Fast Checkboxes](https://github.com/Filiq/50projects50days/tree/main/31.%20Password%20Generator)        | [Live Demo](https://www.filiq.net/projects/50projects50days/Good-Cheap-Fast-Cheapboxes/)
 | 33  |              |
 | 34  |              |
 | 35  |              |
