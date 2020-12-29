@@ -34,7 +34,7 @@
 | 30  | [Auto Text Effect](https://github.com/Filiq/50projects50days/tree/main/30.%20Auto%20Text%20Effect)                    | [Live Demo](https://www.filiq.net/projects/50projects50days/Auto-Text-Effect/)
 | 31  | [Password Generator](https://github.com/Filiq/50projects50days/tree/main/31.%20Password%20Generator)                  | [Live Demo](https://www.filiq.net/projects/50projects50days/Password-Generator/)
 | 32  | [Good, Cheap, Fast Checkboxes](https://github.com/Filiq/50projects50days/tree/main/31.%20Password%20Generator)        | [Live Demo](https://www.filiq.net/projects/50projects50days/Good-Cheap-Fast-Checkboxes/)
-| 33  |              |
+| 33  | [Notes App](https://github.com/Filiq/50projects50days/tree/main/33.%20Notes%20App)                                    | [Live Demo](https://www.filiq.net/projects/50projects50days/Notes-App/)
 | 34  |              |
 | 35  |              |
 | 36  |              |
