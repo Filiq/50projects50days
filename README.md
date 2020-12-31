@@ -36,7 +36,7 @@
 | 32  | [Good, Cheap, Fast Checkboxes](https://github.com/Filiq/50projects50days/tree/main/31.%20Password%20Generator)        | [Live Demo](https://www.filiq.net/projects/50projects50days/Good-Cheap-Fast-Checkboxes/)
 | 33  | [Notes App](https://github.com/Filiq/50projects50days/tree/main/33.%20Notes%20App)                                    | [Live Demo](https://www.filiq.net/projects/50projects50days/Notes-App/)
 | 34  | [Animated Countdown](https://github.com/Filiq/50projects50days/tree/main/34.%20Animated%20Countdown)                  | [Live Demo](https://www.filiq.net/projects/50projects50days/Animated-Countdown/)
-| 35  |              |
+| 35  | [Image Carousel](https://github.com/Filiq/50projects50days/tree/main/35.%20Image%20Carousel)                          | [Live Demo](https://www.filiq.net/projects/50projects50days/Image-Carousel/)
 | 36  |              |
 | 37  |              |
 | 38  |              |
