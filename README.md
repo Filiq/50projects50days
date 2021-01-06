@@ -42,7 +42,7 @@
 | 38  | [Mobile Tap Navigation](https://github.com/Filiq/50projects50days/tree/main/38.%20Mobile%20Tap%20Navigation)               | [Live Demo](https://www.filiq.net/projects/50projects50days/Mobile-Tap-Navigation/)
 | 39  | [Password Strength Background](https://github.com/Filiq/50projects50days/tree/main/39.%20Password%20Strength%20Background) | [Live Demo](https://www.filiq.net/projects/50projects50days/Password-Strength-Background/)
 | 40  | [3D Background Boxes](https://github.com/Filiq/50projects50days/tree/main/40.%203D%20Background%20Boxes)                   | [Live Demo](https://www.filiq.net/projects/50projects50days/3D-Background-Boxes/)
-| 41  |              |
+| 41  | [Verify Account UI](https://github.com/Filiq/50projects50days/tree/main/41.%20Verify%20Account%20UI)                       | [Live Demo](https://www.filiq.net/projects/50projects50days/Verify-Account-UI/)
 | 42  |              |
 | 43  |              |
 | 44  |              |
