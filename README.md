@@ -44,7 +44,7 @@
 | 40  | [3D Background Boxes](https://github.com/Filiq/50projects50days/tree/main/40.%203D%20Background%20Boxes)                   | [Live Demo](https://www.filiq.net/projects/50projects50days/3D-Background-Boxes/)
 | 41  | [Verify Account UI](https://github.com/Filiq/50projects50days/tree/main/41.%20Verify%20Account%20UI)                       | [Live Demo](https://www.filiq.net/projects/50projects50days/Verify-Account-UI/)
 | 42  | [Live User Filter](https://github.com/Filiq/50projects50days/tree/main/42.%20Live%20User%20Filter)                         | [Live Demo](https://www.filiq.net/projects/50projects50days/Live-User-Filter/)
-| 43  | [Feedback UI Design](https://github.com/Filiq/50projects50days/tree/main/43.%20Feedback%20UI%20Design)                     | [Live Demo](https://www.filiq.net/projects/50projects50days/Feedback UI Design/)
+| 43  | [Feedback UI Design](https://github.com/Filiq/50projects50days/tree/main/43.%20Feedback%20UI%20Design)                     | [Live Demo](https://www.filiq.net/projects/50projects50days/Feedback-UI-Design/)
 | 44  |              |
 | 45  |              |
 | 46  |              |
