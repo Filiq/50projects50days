@@ -45,8 +45,8 @@
 | 41  | [Verify Account UI](https://github.com/Filiq/50projects50days/tree/main/41.%20Verify%20Account%20UI)                       | [Live Demo](https://www.filiq.net/projects/50projects50days/Verify-Account-UI/)
 | 42  | [Live User Filter](https://github.com/Filiq/50projects50days/tree/main/42.%20Live%20User%20Filter)                         | [Live Demo](https://www.filiq.net/projects/50projects50days/Live-User-Filter/)
 | 43  | [Feedback UI Design](https://github.com/Filiq/50projects50days/tree/main/43.%20Feedback%20UI%20Design)                     | [Live Demo](https://www.filiq.net/projects/50projects50days/Feedback-UI-Design/)
-| 44  |              |
-| 45  |              |
+| 44  | [Custom Range Slider](https://github.com/Filiq/50projects50days/tree/main/44.%20Custom%20Range%20Slider)                   | [Live Demo](https://www.filiq.net/projects/50projects50days/Custom-Range-Slider/)
+| 45  | [Netflix Mobile Navigation](https://github.com/Filiq/50projects50days/tree/main/45.%20Netflix%20Mobile%20Navigation)       | [Live Demo](https://www.filiq.net/projects/50projects50days/Netflix-Mobile-Navigation/)
 | 46  |              |
 | 47  |              |
 | 48  |              |
