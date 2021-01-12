@@ -48,7 +48,7 @@
 | 44  | [Custom Range Slider](https://github.com/Filiq/50projects50days/tree/main/44.%20Custom%20Range%20Slider)                   | [Live Demo](https://www.filiq.net/projects/50projects50days/Custom-Range-Slider/)
 | 45  | [Netflix Mobile Navigation](https://github.com/Filiq/50projects50days/tree/main/45.%20Netflix%20Mobile%20Navigation)       | [Live Demo](https://www.filiq.net/projects/50projects50days/Netflix-Mobile-Navigation/)
 | 46  | [Quiz App](https://github.com/Filiq/50projects50days/tree/main/46.%20Quiz%20App)                                           | [Live Demo](https://www.filiq.net/projects/50projects50days/Quiz-App/)
-| 47  |              |
+| 47  | [Testimonial Box Switcher](https://github.com/Filiq/50projects50days/tree/main/47.%20Testimonial%20Box%20Switcher)         | [Live Demo](https://www.filiq.net/projects/50projects50days/Testimonial-Box-Switcher/)
 | 48  |              |
 | 49  |              |
 | 50  |              |
