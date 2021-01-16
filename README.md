@@ -51,6 +51,6 @@
 | 47  | [Testimonial Box Switcher](https://github.com/Filiq/50projects50days/tree/main/47.%20Testimonial%20Box%20Switcher)         | [Live Demo](https://www.filiq.net/projects/50projects50days/Testimonial-Box-Switcher/)
 | 48  | [Random Image Feed](https://github.com/Filiq/50projects50days/tree/main/48.%20Random%20Image%20Feed)                       | [Live Demo](https://www.filiq.net/projects/50projects50days/Random-Image-Feed/)
 | 49  | [Todo List](https://github.com/Filiq/50projects50days/tree/main/49.%20Todo%20List)                                         | [Live Demo](https://www.filiq.net/projects/50projects50days/Todo-List/)
-| 50  |              |
+| 50  | [Insert Catch Game](https://github.com/Filiq/50projects50days/tree/main/50.%20Insert%20Catch%20Game)                       | [Live Demo](https://www.filiq.net/projects/50projects50days/Insert-Catch-Game/)
 
 I get inspiration from [Brad Traversy](https://github.com/bradtraversy).
